@@ -1,0 +1,24 @@
+{
+  "name": "hackaton-auv",
+  "version": "1.0.0",
+  "main": "index.php",
+  "scripts": {
+    "start": "gulp watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurbrunot/hackaton-auv.git"
+  },
+  "author": "Arthur BRUNOT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arthurbrunot/hackaton-auv/issues"
+  },
+  "homepage": "https://github.com/arthurbrunot/hackaton-auv#readme",
+  "description": "",
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
+}
