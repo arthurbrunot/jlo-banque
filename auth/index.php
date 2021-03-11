@@ -35,9 +35,6 @@ if($_POST['isConnected'] == 0 || $_POST['isConnected'] == null) {
 </head>
 <body>
     <div class="container">
-        <img class="logo" src="../src/img/logoauv.png">
-        <img class="pattern1" src="../src/img/pattern1.png">
-        <img class="pattern2" src="../src/img/pattern2.png">
         <div class="content">
             <h1>Course à l'orientation</h1>
             <div class="buttons_actions">
